@@ -6,15 +6,15 @@ Este proyecto contiene pruebas automatizadas para la API de Urban Grocers, espec
 
 ## Tecnologías y técnicas utilizadas
 
-\- \*\*Python\*\* - Lenguaje de programación principal
+\- **Python** - Lenguaje de programación principal
 
-\- \*\*pytest\*\* - Framework de testing
+\- **pytest** - Framework de testing
 
-\- \*\*requests\*\* - Biblioteca para realizar solicitudes HTTP
+\- **requests** - Biblioteca para realizar solicitudes HTTP
 
-\- \*\*Pruebas de API\*\* - Validación de endpoints REST
+\- **Pruebas de API** - Validación de endpoints REST
 
-\- \*\*Casos positivos y negativos\*\* - Cobertura completa de escenarios
+\- **Casos positivos y negativos** - Cobertura completa de escenarios
 
 ## Documentación utilizada
 
