@@ -1,30 +1,25 @@
-# Proyecto Urban Grocers
+# Urban Grocers API Testing
 
-## Descripción
+## Description
 
-Este proyecto contiene pruebas automatizadas para la API de Urban Grocers, específicamente para la funcionalidad de creación de kits de productos. Las pruebas validan tanto casos positivos como negativos para asegurar que la API maneja correctamente diferentes tipos de entrada.
+This project contains automated tests for the Urban Grocers API, specifically for the product kit creation functionality. The tests validate both positive and negative cases to ensure the API correctly handles different types of input.
 
-## Tecnologías y técnicas utilizadas
+## Technologies and Techniques Used
 
-- **Python** - Lenguaje de programación principal
+- **Python** - Main programming language  
+- **pytest** - Testing framework  
+- **requests** - Library for making HTTP requests  
+- **API Testing** - Validation of REST endpoints  
+- **Positive and Negative Cases** - Full scenario coverage  
 
-- **pytest** - Framework de testing
+## Documentation Used
 
-- **requests** - Biblioteca para realizar solicitudes HTTP
+- Official Urban Grocers API documentation  
+- apiDoc for endpoint specifications  
 
-- **Pruebas de API** - Validación de endpoints REST
+## Installation and Execution
 
-- **Casos positivos y negativos** - Cobertura completa de escenarios
-
-## Documentación utilizada
-
-- Documentación oficial de la API de Urban Grocers
-
-- apiDoc para especificaciones de endpoints
-
-## Instalación y ejecución
-
-Necesitas tener instalados los paquetes pytest y requests para ejecutar las pruebas.
+You need to have the `pytest` and `requests` packages installed to run the tests.
 
 
 ```bash
@@ -33,7 +28,7 @@ pip install pytest requests
 
 ```
 
-## Para ejecutar todas las pruebas
+## To run all tests
 
 ```bash
 
@@ -41,7 +36,7 @@ pytest
 
 ```
 
-## Para ejecutar un archivo específico
+## To run a specific file
 
 ```bash
 
@@ -49,7 +44,7 @@ pytest create\_kit\_name\_kit\_test.py
 
 ```
 
-## Licencia
+## Licence
 
 PyCharm
 
